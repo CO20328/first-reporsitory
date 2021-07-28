@@ -1,0 +1,6 @@
+AJ1001 (1,Hindi) (2,Mathematics)
+AS1002 (1,Mathematics)
+AG1003 (1,General Science)
+RR1004 (2,EVS)
+SK1005 (1,English) (2,English)
+VV1006 (2,Science)
